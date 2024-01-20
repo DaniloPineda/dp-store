@@ -7,7 +7,6 @@ import NotFound from '../NotFound'
 import SignIn from '../SignIn'
 import Navbar from '../../Components/Navbar'
 import Layout from '../../Components/Layout'
-import './App.css'
 
 const AppRoutes = () => {
   return useRoutes([
