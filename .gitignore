@@ -26,4 +26,3 @@ dist-ssr
 # compiled output
 /dist
 /node_modules
-/src/Collections
